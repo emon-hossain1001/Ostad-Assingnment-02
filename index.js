@@ -7,7 +7,7 @@ function calculateDifference(a,b){
     }
 }
 
-// question no 1
+// question no 2
 function isOdd(n){
     return n%2===1?true:false;
 }
